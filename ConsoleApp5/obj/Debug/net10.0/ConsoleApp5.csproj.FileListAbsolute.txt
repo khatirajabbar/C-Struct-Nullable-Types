@@ -1,0 +1,14 @@
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.deps.json
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.runtimeconfig.json
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.dll
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.pdb
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfoInputs.cache
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfo.cs
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.dll
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/refint/ConsoleApp5.dll
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.pdb
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.genruntimeconfig.cache
+/Users/khatira/Desktop/ConsoleApp5/ConsoleApp5/obj/Debug/net10.0/ref/ConsoleApp5.dll
