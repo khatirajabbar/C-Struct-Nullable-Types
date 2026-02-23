@@ -19,5 +19,47 @@ class Program
         //     Console.WriteLine(e.Message);
         // }
         #endregion
+        #region second task
+        /*try
+        {
+            Hotel hotel = new Hotel("Baku Palace");
+            Room r1 = new Room("Deluxe 101", 150, 2);
+            Room r2 = new Room("Suite 202", 300, 4);
+            hotel.AddRoom(r1);
+            hotel.AddRoom(r2);
+            Console.WriteLine($"the room at index 0: {hotel[0].Name}");
+            hotel.ReserveRoom(r1.Id);
+            // hotel.ReserveRoom(null);
+            hotel.ReserveRoom(14);
+            hotel.ReserveRoom(r1.Id);
+         
+        }
+        catch (NotFoundException ex)
+        {
+            Console.WriteLine($"Search Result: {ex.Message}");
+        }
+        catch (NotAvailableException ex)
+        {
+          Console.WriteLine($"Search Result: {ex.Message}");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"Unexcepted ERROR: {ex.Message}");
+        } */
+        #endregion
     }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+    
+            
 }

@@ -13,6 +13,10 @@ public class Room
     {
         ID = ++ID;
         Id = ID;
+        Name = name;
+        Price = price;
+        PersonCapacity = personCapacity;
+        IsAvailable = true;
     }
     public override string ToString()
     {
