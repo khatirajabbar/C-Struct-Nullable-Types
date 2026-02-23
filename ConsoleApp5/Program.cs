@@ -57,10 +57,14 @@ class Program
 
 
         Weapon myWeapon = new Weapon(30, 20, 3, "Single");
+        
+        Console.WriteLine("\nEnter command: command 0 for info,\ncommand 1 for shoot, \ncommand 2 for fire all" +
+                          " the bullets, \ncommand 3 for to see remaining bullets, \ncommand 4 for" +
+                          " reload, \ncommand 5 for change fire mode, \ncommand 6 for exit");
         bool continueLoop = true;
+        
         while (continueLoop)
         {
-            Console.WriteLine("\nEnter command (command 0 for info):");
             string choice = Console.ReadLine();
             switch (choice)
             {
